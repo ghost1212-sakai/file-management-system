@@ -66,7 +66,6 @@ The project includes a full set of UML diagrams documented in the project report
 
 - **Language:** Kotlin
 - **UI:** Jetpack Compose + Material 3
-- **Architecture:** MVVM
 - **Async:** Kotlin Coroutines + StateFlow
 - **File I/O:** Java `File` API + `ZipOutputStream` / `ZipInputStream`
 - **Min SDK:** Android 8.0 (API 26)
@@ -75,11 +74,6 @@ The project includes a full set of UML diagrams documented in the project report
 ---
 
 ## 🚀 Getting Started
-
-### Prerequisites
-- Android Studio Hedgehog or later
-- Android device or emulator running Android 8.0+
-- For Android 11+: **All Files Access** permission required
 
 ### Installation
 
