@@ -116,7 +116,12 @@ app/src/main/java/com/example/file_manager/
 
 ## 📸 Screenshots
 
-> _Add screenshots of your app here_
+![WhatsApp Image 2026-04-07 at 01 14 46](https://github.com/user-attachments/assets/ffa46a5b-3b0c-410f-8023-31717a0cc10a)
+
+
+![WhatsApp Image 2026-04-07 at 01 14 46](https://github.com/user-attachments/assets/576bb793-fe7e-4b86-ba14-759310c44666)
+
+
 
 ---
 
